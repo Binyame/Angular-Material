@@ -1,0 +1,17 @@
+mat-grid-tile {
+    background: lightblue;
+}
+
+.card-title{
+    color:green;
+}
+.form-body{
+margin: 0 300px;
+padding: 20px;
+}
+.example-full-width-full{
+ width: 100%;   
+}
+.example-full-width{
+justify-content: space-between;
+}
